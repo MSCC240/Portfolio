@@ -1,0 +1,22 @@
+.projects {
+  padding: 5rem 2rem;
+  background-color: #0f0c2a; /* dark but NOT purple */
+}
+
+.projects h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.projects-intro {
+  max-width: 600px;
+  margin-bottom: 3rem;
+  color: #cfd3ff;
+}
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  align-items: stretch;
+}

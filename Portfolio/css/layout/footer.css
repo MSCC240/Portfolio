@@ -1,0 +1,8 @@
+.contact-links a {
+  color: var(--accent);
+  font-weight: 500;
+}
+
+.contact-links a:hover {
+  text-decoration: underline;
+}
