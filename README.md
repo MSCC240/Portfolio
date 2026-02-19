@@ -4,7 +4,7 @@ A responsive personal portfolio website built to showcase my front-end
 development skills, projects, and experience.
 
 ## 🌐 Live Demo
-[View Portfolio](https://your-live-link-here)
+[View Portfolio](https://vercel.com/mscc240s-projects/portfolio/CKXxphgbBFG1GzHKWGQF5SJFbrox)
 
 ## 🛠 Tech Stack
 - HTML5
